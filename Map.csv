@@ -1,0 +1,101 @@
+,Suburb,Houses,People,Children,restaurant,school,park,it
+0,Reservoir,203,700,220,16,5,3,1
+1,Richmond,170,514,169,24,4,2,1
+2,Brunswick,148,497,173,17,6,3,1
+3,Bentleigh East,135,501,184,20,6,2,2
+4,South Yarra,127,340,94,23,6,3,2
+5,Hawthorn,125,355,99,14,7,4,0
+6,Preston,124,442,145,17,5,3,0
+7,Essendon,123,400,138,16,4,4,2
+8,Coburg,122,433,159,15,5,4,2
+9,Northcote,112,377,138,16,5,4,2
+10,Kew,111,395,138,18,7,2,0
+11,Yarraville,111,417,163,19,4,4,2
+12,Glen Iris,110,396,129,23,6,3,2
+13,St Kilda,107,276,70,13,7,3,2
+14,Pascoe Vale,107,372,128,20,5,2,2
+15,Brighton,104,342,105,19,6,4,1
+16,Elwood,104,283,88,13,7,4,2
+17,Glenroy,104,394,157,21,4,2,0
+18,Balwyn North,102,378,138,15,6,4,2
+19,Carnegie,101,311,93,22,6,3,2
+20,Moonee Ponds,98,350,132,7,5,4,2
+21,Footscray,96,289,95,11,5,2,1
+22,Port Melbourne,95,300,104,7,4,4,1
+23,Ascot Vale,88,312,94,11,5,2,0
+24,Brighton East,86,329,123,9,3,4,1
+25,Bentleigh,85,320,117,10,5,4,2
+26,Thornbury,84,284,96,10,4,3,2
+27,Newport,82,318,115,10,6,4,0
+28,Brunswick West,81,235,62,8,3,2,1
+29,Camberwell,80,285,104,6,3,3,0
+30,Prahran,77,213,66,8,5,2,2
+31,Surrey Hills,75,278,99,10,3,3,0
+32,Malvern East,73,256,85,10,5,2,1
+33,Hampton,72,254,92,8,4,3,2
+34,Hawthorn East,71,221,59,7,3,4,2
+35,Kensington,70,203,65,9,6,4,2
+36,Keilor East,69,283,111,8,3,2,1
+37,Doncaster,67,255,98,5,6,4,1
+38,Maribyrnong,67,232,75,7,5,3,1
+39,West Footscray,64,242,89,4,4,2,0
+40,Ivanhoe,64,231,90,4,3,3,0
+41,Balwyn,63,215,71,5,5,1,0
+42,Ormond,58,192,56,8,3,3,0
+43,South Melbourne,58,197,66,3,4,3,0
+44,Williamstown,58,223,83,4,4,2,0
+45,Toorak,57,172,48,8,4,2,0
+46,Armadale,56,190,65,7,4,3,0
+47,Sunshine,55,207,71,7,3,3,1
+48,Fawkner,55,192,68,9,4,2,0
+49,Templestowe Lower,54,214,83,3,4,3,0
+50,North Melbourne,54,147,43,5,5,1,1
+51,Brunswick East,54,177,66,5,3,1,1
+52,Maidstone,54,186,65,8,4,1,1
+53,Sunshine West,53,230,84,3,3,2,0
+54,Burwood,50,181,63,4,5,1,0
+55,Murrumbeena,49,166,52,6,3,2,0
+56,Fitzroy North,47,147,48,5,5,1,1
+57,Collingwood,47,116,33,6,5,2,0
+58,Elsternwick,44,149,59,3,5,1,1
+59,Heidelberg Heights,44,138,45,5,4,3,1
+60,Moorabbin,43,158,62,3,0,1,0
+61,Airport West,42,152,57,1,2,2,0
+62,Fitzroy,41,113,33,3,3,1,1
+63,Malvern,41,138,47,3,3,2,0
+64,Flemington,41,135,49,1,1,1,0
+65,Seddon,41,157,59,1,0,1,0
+66,Box Hill,40,154,59,3,2,1,0
+67,Ashburton,40,155,50,1,0,1,0
+68,Bulleen,39,128,47,1,1,1,0
+69,Craigieburn,39,157,62,3,0,1,0
+70,Hadfield,39,153,55,2,3,1,0
+71,Windsor,38,89,22,2,1,2,0
+72,Altona,38,130,46,3,0,2,0
+73,Abbotsford,38,129,42,3,2,1,0
+74,Albert Park,37,123,38,3,1,2,0
+75,Avondale Heights,37,159,62,1,2,2,1
+76,Oak Park,37,128,42,3,3,1,0
+77,Melbourne,37,76,18,3,2,1,0
+78,Strathmore,36,132,51,1,0,2,0
+79,Niddrie,36,145,53,1,2,2,1
+80,Southbank,34,87,22,1,0,0,0
+81,Heidelberg,34,123,41,0,1,1,0
+82,Werribee,34,140,54,1,0,0,0
+83,Ashwood,33,117,43,0,1,1,0
+84,Coburg North,32,102,28,0,1,1,0
+85,Epping,32,125,38,0,0,1,0
+86,Clifton Hill,32,106,35,0,0,1,0
+87,Rosanna,32,119,47,0,1,0,0
+88,Oakleigh,31,107,36,1,0,1,0
+89,Fairfield,31,113,36,1,0,1,0
+90,Braybrook,31,105,32,0,1,1,0
+91,Canterbury,30,102,27,0,1,1,0
+92,Aberfeldie,30,97,32,1,1,0,0
+93,Watsonia,30,109,41,0,1,1,0
+94,Altona North,29,118,47,0,1,1,0
+95,Caulfield South,29,100,39,1,1,0,0
+96,Oakleigh South,28,112,38,1,0,0,0
+97,Heidelberg West,28,96,35,1,1,1,0
+98,Kew East,28,114,41,0,1,1,0
+99,Chadstone,27,107,38,0,1,0,0
